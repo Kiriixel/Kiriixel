@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 It's Akira here!
 I am a beginner learning how to code so I can crete my very own <br>Roblox game.<br><br>I am currently working on creating a hobby project, something just for <br>fun and can help me better my skills in coding.<br><br>I am currently learning the Luau programming language aswell as how <br>to create UGC items.<br><br>Feel free to ask me questions, I will try my best to answer to the best of my<br>ability! I am also open to any advice/guidance that can help me on my<br>journey!
 
 
